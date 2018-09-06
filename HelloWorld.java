@@ -6,5 +6,7 @@ class HelloWorld {
 
 		System.out.println("My name is Masafumi Terazono.");
 
+		System.out.println("Show me the proof!!('n')");
+
 	}
 }
